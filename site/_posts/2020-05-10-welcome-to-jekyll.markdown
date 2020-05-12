@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Wieland"
 date:   2020-05-10 22:16:24 +0200
 categories: jekyll update
 ---
