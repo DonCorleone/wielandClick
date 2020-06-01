@@ -3,9 +3,9 @@ layout: home
 published: true
 ---
 
-## Schalalalala
+## Yess
 
-### Kassic
+### Krassic
 
 ![5362630170.jpg]({{site.baseurl}}/site/5362630170.jpg)
 
